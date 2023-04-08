@@ -18,6 +18,8 @@
     "react-dom": "18.2.0",
     "react-native": "0.71.4",
     "react-native-draggable": "^3.3.0",
+    "react-native-linear-gradient": "^2.6.2",
+    "react-native-splash-screen": "^3.3.0",
     "react-native-web": "~0.18.10"
   },
   "devDependencies": {
